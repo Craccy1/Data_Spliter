@@ -1,0 +1,8 @@
+image_path,label
+/Users/craccy/Documents/deeplearning/MUSIC实验室基础学习/python/Data_Spliter/data/mini_imagenet/panda/panda_003.jpg,panda
+/Users/craccy/Documents/deeplearning/MUSIC实验室基础学习/python/Data_Spliter/data/mini_imagenet/cat/cat_003.jpg,cat
+/Users/craccy/Documents/deeplearning/MUSIC实验室基础学习/python/Data_Spliter/data/mini_imagenet/panda/panda_004.jpg,panda
+/Users/craccy/Documents/deeplearning/MUSIC实验室基础学习/python/Data_Spliter/data/mini_imagenet/cat/cat_001.jpg,cat
+/Users/craccy/Documents/deeplearning/MUSIC实验室基础学习/python/Data_Spliter/data/mini_imagenet/panda/panda_002.jpg,panda
+/Users/craccy/Documents/deeplearning/MUSIC实验室基础学习/python/Data_Spliter/data/mini_imagenet/cat/cat_002.jpg,cat
+/Users/craccy/Documents/deeplearning/MUSIC实验室基础学习/python/Data_Spliter/data/mini_imagenet/dog/dog_002.jpg,dog

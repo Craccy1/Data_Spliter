@@ -1,0 +1,20 @@
+# Python 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook 自动保存缓存
+.ipynb_checkpoints/
+
+# IDE 与操作系统产生的系统临时文件
+.DS_Store
+.vscode/
+.idea/
+
+# 忽略大型原始数据和模型权重输出
+data/
+*.pth
+*.pt
+*.onnx
+weights/
