@@ -1,12 +1,9 @@
-from scipy.stats import triang
 import argparse
-from IPython.core.pylabtools import figsize
 import os
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from pathlib import Path
-import argparse
 
 from utils import set_seed
 
@@ -18,7 +15,6 @@ class DatasetSplitter:
         self.output_dir.mkdir(parents=True, exist_ok=True)
     
     def scan_and_split(self):
-
         image_paths = []
         image_paths = list(self.data_dir.rglob('*.jpg'))
         if len(image_paths) == 0:
